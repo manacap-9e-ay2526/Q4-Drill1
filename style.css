@@ -8,3 +8,17 @@ html, body {
     flex-direction: column;
     display: flex;  
 }
+
+.container {
+    width: 305px;
+    padding: 20px;
+    background-color: #1f2d2f;
+    color: white;
+    border-radius: 15px;
+    cursor: pointer;
+
+}
+
+.container:hover {
+    background-color: #2e4447;
+}
